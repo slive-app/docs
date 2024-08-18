@@ -7,7 +7,6 @@ Unmittelbar nach dem erfolgreichen Aufbau der Verbindung erhältst du von uns di
 <summary>Event Object</summary>
 
 <pre class="language-json"><code class="lang-json">{
-    {
     "ID": "OB2OF_CONFIG",
     "CODE": 200,
     "MESSAGE": "Config Data for Overlay",
@@ -84,7 +83,7 @@ Unmittelbar nach dem erfolgreichen Aufbau der Verbindung erhältst du von uns di
         }
     }
 }
-}
+
 </code></pre>
 
 </details>
