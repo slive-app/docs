@@ -6,11 +6,11 @@ Du kannst die Verbindung in deinem gewohnten Dev-Umfeld aufbauen. Nutze dafür f
 
 {% tabs %}
 {% tab title="Stable" %}
-> wss://ws.slive.app/slive\_app\_backend\_overlay?version=[**1**](#user-content-fn-1)[^1]\&token=[**TOKEN**](#user-content-fn-2)[^2]
+> wss://ws.slive.app/?version=[**1**](#user-content-fn-1)[^1]\&token=[**TOKEN**](#user-content-fn-2)[^2]
 {% endtab %}
 
 {% tab title="Beta" %}
-> wss://ws.slive.app/slive\_app\_backend\_overlay\_beta?version=[**1**](#user-content-fn-3)[^3]\&token=[**TOKEN**](#user-content-fn-4)[^4]
+> wss://ws.slive.app/beta?version=[**1**](#user-content-fn-3)[^3]\&token=[**TOKEN**](#user-content-fn-4)[^4]
 
 {% hint style="warning" %}
 Tokens sind abhängig von der Produktions-Umgebung. Wenn du einen Token von [slive.app](https://slive.app) verwendest, wird dieser **nicht** funktionieren. Generiere dir hierfür einen Token von [beta.slive.app.](https://beta.slive.app)

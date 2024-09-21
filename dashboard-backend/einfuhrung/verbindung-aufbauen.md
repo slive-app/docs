@@ -6,11 +6,11 @@ Du kannst die Verbindung in deinem gewohnten Dev-Umfeld aufbauen. Nutze dafür f
 
 {% tabs %}
 {% tab title="Stable" %}
-wss://ws.slive.app/slive\_app\_backend\_dashboard?version=[**1**](#user-content-fn-1)[^1]\&token=[**TOKEN**](#user-content-fn-2)[^2]\&origin=[**ORIGIN**](#user-content-fn-3)[^3]
+> wss://ws.slive.app/?version=[**1**](#user-content-fn-1)[^1]\&token=[**TOKEN**](#user-content-fn-2)[^2]\&origin=[**ORIGIN**](#user-content-fn-3)[^3]
 {% endtab %}
 
 {% tab title="Beta" %}
-> wss://ws.slive.app/slive\_app\_backend\_overlay\_beta?version=[**1**](#user-content-fn-4)[^4]\&token=[**TOKEN**](#user-content-fn-5)[^5]
+> wss://ws.slive.app/beta?version=[**1**](#user-content-fn-4)[^4]\&token=[**TOKEN**](#user-content-fn-5)[^5]\&origin=[**ORIGIN**](#user-content-fn-6)[^6]
 
 {% hint style="warning" %}
 Tokens sind abhängig von der Produktions-Umgebung. Wenn du einen Token von [slive.app](https://slive.app) verwendest, wird dieser **nicht** funktionieren. Generiere dir hierfür einen Token von [beta.slive.app.](https://beta.slive.app)
@@ -56,3 +56,5 @@ Nach der erfolgreichen Verbindung bekommst du von uns folgende Info:
 [^4]: Aktuell ist nur Version 1 verfügbar
 
 [^5]: Gebe hier deinen Token ein, den du auf unserer [Website](https://beta.slive.app) erhältst.
+
+[^6]: Wird weiter unten erklärt
