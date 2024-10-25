@@ -2,6 +2,10 @@
 
 * [👋 Willkommen](README.md)
 * [📃 Changelog](changelog.md)
+* [💢 Errors](errors/README.md)
+  * [1XXX - Cardinal](errors/1xxx-cardinal.md)
+  * [2XXX - App Backend](errors/2xxx-app-backend.md)
+  * [3XXX - SDK](errors/3xxx-sdk.md)
 
 ## SDK
 
