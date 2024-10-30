@@ -8,7 +8,7 @@ Naja, vom klassischen "installieren" kann man hier nicht sprechen. Aber ihr kön
 Diese Version wurde noch nicht veröffentlicht!
 {% endhint %}
 
-<pre class="language-html"><code class="lang-html"><strong>&#x3C;script defer scr="https://cdn.jsdelivr.net/gh/slive-app/sdk@v1.1/_sliveBundle.js">&#x3C;/script>
+<pre class="language-html"><code class="lang-html"><strong>&#x3C;script defer src="https://cdn.jsdelivr.net/gh/slive-app/sdk@v1.1/_sliveBundle.js">&#x3C;/script>
 </strong></code></pre>
 {% endtab %}
 
